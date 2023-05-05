@@ -203,8 +203,7 @@
       height="40"
     />
   </a>
-  <a
-    href="https://www.microsoft.com/en-us/sql-server"
+  <a href="https://www.microsoft.com/en-us/sql-server"
     target="_blank"
     rel="noreferrer"
   >
@@ -247,8 +246,7 @@
 
     <h3 align="left">Hobbies:</h3>
      <h4 align="left">Design:</h4>
-     <a
-    href="https://www.adobe.com/products/xd.html"
+     <a href="https://www.adobe.com/products/xd.html"
     target="_blank"
     rel="noreferrer"
   >
@@ -267,8 +265,7 @@
       height="40"
     />
   </a>
-  <a
-    href="https://www.adobe.com/in/products/illustrator.html"
+  <a href="https://www.adobe.com/in/products/illustrator.html"
     target="_blank"
     rel="noreferrer"
   >
